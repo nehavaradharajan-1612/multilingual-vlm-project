@@ -1,0 +1,19 @@
+{
+  "source": "https://www.kaggle.com/datasets/gpreda/chinese-mnist",
+  "downloaded_archive_sha256": "cf461b96402dbe81a2ccacb99eb887a1ccca388efea0d37b7992113ff3456e2f",
+  "images_validated": 15000,
+  "unique_writers": 100,
+  "classes": 15,
+  "duplicate_decoded_images": 0,
+  "split_counts": {
+    "test": 2250,
+    "train": 10500,
+    "val": 2250
+  },
+  "writer_counts": {
+    "test": 15,
+    "train": 70,
+    "val": 15
+  },
+  "seed": 42
+}

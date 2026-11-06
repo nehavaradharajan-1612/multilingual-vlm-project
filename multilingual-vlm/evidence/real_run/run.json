@@ -1,0 +1,21 @@
+{
+  "epochs": 5,
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "seed": 42,
+  "device": "cpu",
+  "augmentation": true,
+  "patience": 7,
+  "selection": "mean clean validation accuracy across zh,en,es",
+  "training_samples": 10500,
+  "validation_samples": 2250,
+  "synthetic": false,
+  "versions": {
+    "torch": "2.15.0+cpu",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "Pillow": "13.0.0",
+    "scikit-learn": "1.8.0"
+  },
+  "prototype_sha256": "53301f25069921eeedaa1b9f4f996bed9b9deecdd6f421ec1cc98a74a8cf6010"
+}

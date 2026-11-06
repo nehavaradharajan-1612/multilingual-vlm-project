@@ -1,0 +1,66 @@
+{
+  "model": "sentence-transformers/clip-ViT-B-32-multilingual-v1",
+  "revision_requested": null,
+  "languages": [
+    "zh",
+    "en",
+    "es"
+  ],
+  "prompts": {
+    "zh": [
+      "手写汉字“零”。",
+      "手写汉字“一”。",
+      "手写汉字“二”。",
+      "手写汉字“三”。",
+      "手写汉字“四”。",
+      "手写汉字“五”。",
+      "手写汉字“六”。",
+      "手写汉字“七”。",
+      "手写汉字“八”。",
+      "手写汉字“九”。",
+      "手写汉字“十”。",
+      "手写汉字“百”。",
+      "手写汉字“千”。",
+      "手写汉字“万”。",
+      "手写汉字“亿”。"
+    ],
+    "en": [
+      "The handwritten Chinese numeral for zero.",
+      "The handwritten Chinese numeral for one.",
+      "The handwritten Chinese numeral for two.",
+      "The handwritten Chinese numeral for three.",
+      "The handwritten Chinese numeral for four.",
+      "The handwritten Chinese numeral for five.",
+      "The handwritten Chinese numeral for six.",
+      "The handwritten Chinese numeral for seven.",
+      "The handwritten Chinese numeral for eight.",
+      "The handwritten Chinese numeral for nine.",
+      "The handwritten Chinese numeral for ten.",
+      "The handwritten Chinese numeral for one hundred.",
+      "The handwritten Chinese numeral for one thousand.",
+      "The handwritten Chinese numeral for ten thousand.",
+      "The handwritten Chinese numeral for one hundred million."
+    ],
+    "es": [
+      "El numeral chino manuscrito que significa cero.",
+      "El numeral chino manuscrito que significa uno.",
+      "El numeral chino manuscrito que significa dos.",
+      "El numeral chino manuscrito que significa tres.",
+      "El numeral chino manuscrito que significa cuatro.",
+      "El numeral chino manuscrito que significa cinco.",
+      "El numeral chino manuscrito que significa seis.",
+      "El numeral chino manuscrito que significa siete.",
+      "El numeral chino manuscrito que significa ocho.",
+      "El numeral chino manuscrito que significa nueve.",
+      "El numeral chino manuscrito que significa diez.",
+      "El numeral chino manuscrito que significa cien.",
+      "El numeral chino manuscrito que significa mil.",
+      "El numeral chino manuscrito que significa diez mil.",
+      "El numeral chino manuscrito que significa cien millones."
+    ]
+  },
+  "synthetic": false,
+  "downloaded_cache_revisions": [
+    "58edf8cada9e398793dca955574a48cbb7f18be2"
+  ]
+}

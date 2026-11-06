@@ -1,0 +1,7 @@
+{
+  "seed": 42,
+  "checkpoint_sha256": "18c1d5e873720ec75a5fba5cdd84396b208c18fcc986e4e278510f0a69d51ffd",
+  "test_samples": 45,
+  "synthetic": true,
+  "noise_replicates": 1
+}
